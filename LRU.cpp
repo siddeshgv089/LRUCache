@@ -4,7 +4,7 @@
 program to define LRU cache.
 
 Using the (deque) Double ended queue to store the (K,V) elements
-Using the map to store the address of the nodes to access the elements in the dequeue in O(1) time.
+Using the map to store the address of the nodes to access the elements in the deque in O(1) time.
 
 deque stores Key and value as a pair;
 map stores Key and Value as the address the deque node corresponding to the given key.

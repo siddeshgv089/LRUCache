@@ -103,7 +103,6 @@ public:
 		else
 		{
 
-			//1->2->3->4->5->NULL
 
 			if (it->second != list.begin())
 			{

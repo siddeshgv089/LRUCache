@@ -136,7 +136,7 @@ int main()
 
 	lc.set(1, 10);
 	lc.set(2, 20);
-	//lc.set(3, 30);
+	lc.set(3, 30);
 	lc.printCache();
 
 	lc.get(1);
